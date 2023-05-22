@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Front-end web development",
+  "Database development",
+  "Project management",
+  "Networking",
+  "Data visualisation and analysis using python",
+  "MySQL",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about working with data in ways to improve businesses and research. By leveraging my experience in creating databases, I continually look for more opportunities to connect with entrepreneurs and use my knowledge around data to benefit their businesses.";
 
 const About = () => {
   return (
